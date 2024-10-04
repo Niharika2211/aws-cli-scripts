@@ -1,5 +1,5 @@
 #!/bin/bash
-INSTANCE_ID="i-007050e336adcee88"
+INSTANCE_ID="i-0566bdf249886db24"
 HOSTED_ZONE_ID="Z08801502JQFVUXR02K9R"
 DOMAIN_NAME="niharika.konkas.tech"
 aws ec2 start-instances --instance-ids $INSTANCE_ID
